@@ -1,7 +1,6 @@
 # BlinkKey_FinalProject
 
 Problem Background
-
 Table of Contents
 01.	Weaknesses in Unimodal Authentication Systems
     a.	Thirteen (13) + solid points with justification for Uni modal weaknesses
